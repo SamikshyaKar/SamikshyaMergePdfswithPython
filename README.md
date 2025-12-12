@@ -2,6 +2,8 @@
 
 A Python GUI application that merges PDF, Word documents, and image files into a single PDF document.
 
+![Universal File Merger Demo](SamikshyaMergePdfwithPython.gif)
+
 ## Features
 
 - **Merge PDF files** - Combine multiple PDF files into one
